@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development projects
-- 📫 How to reach me: alanthomas@gmail.com || Linkedin: https://www.linkedin.com/in/alan-thomas-202564226
+- 📫 How to reach me: alanthomas860@gmail.com || Linkedin: https://www.linkedin.com/in/alan-thomas-202564226
 - 😄 Pronouns: Alan
